@@ -5,7 +5,7 @@
 Sejá bem vindo a meu git! 
 
 Sou desenvolvedor desde 2018, focado em desenvolvimento web Full Stack desde 2022. Sou apaixonado por tecnologia, do software ao hardware me mantenho sempre aprendendo.
-Estou terminando minha graduação em Ciencia da Computação na Universidade de Brasília.
+Sou bacharel em Ciencia da Computação pela Universidade de Brasília.
 
 <div>
   <a href="https://github.com/Joaofsrs">
