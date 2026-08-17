@@ -1,6 +1,6 @@
 # Olá, sou o João Gabriel
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-gabriel-saraiva/)](https://www.linkedin.com/in/joão-gabriel-saraiva/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-gabriel-saraiva/)](https://www.linkedin.com/in/joao-gabriel-saraiva/)
 
 Sejá bem vindo a meu git! 
 
